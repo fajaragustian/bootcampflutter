@@ -18,7 +18,7 @@ Install my-project
 
 ## Lessons Learned
 
-Day 1
+Day 1 (Done)
 Git & command line  
 Day 2
 Type Data & Condition  
