@@ -10,12 +10,12 @@ import 'dart:io';
 //   var name = "hilmy";
 //   var angka = 12;
 //   var double = 3.4;
-//   // var items;
+//    var items;
 //   print(name);
 //   print(angka);
 //   print(double);
-//   // null
-//   // print(items);
+//   null
+//   print(items);
 // }
 // Equal Operator (==) jika nilainya sama dengan
 // void main(List<String> args){
@@ -106,11 +106,11 @@ import 'dart:io';
 // void main() {
 //   final umur = 21;
 //   umur = 22;
-//   // error: 'umur', a final variable, can only be set once
+//    error: 'umur', a final variable, can only be set once
 //   const age = 21;
-//   // age = 22;
+//    age = 22;
 //   print(umur);
-//   //error: Constant variabels can't be assigned a value
+//   error: Constant variabels can't be assigned a value
 // }
 // Contoh 1 
 // void main() {
